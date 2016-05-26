@@ -219,6 +219,17 @@ a:hover {
 	padding: 50px 0px 0px 0px;
 }
 
+#name {
+    float: left;
+	text-align: center;
+	padding: 45px 0 0 90px;
+}
+
+#profilePic {
+	z-index: 100;
+	float: left;
+	margin: 0 20px 20px 0px;
+}
 .post {
 	overflow: hidden;
 	margin-bottom: 40px;
