@@ -30,7 +30,7 @@ div {
 .left {
     background-color: #dda0dd;
     width: 10%;
-    height: 700px;
+    height: 770px;
     float: left;
     margin-top: 55px;
     margin-bottom: 10px
@@ -38,7 +38,7 @@ div {
 
 .right {
     background-color: #77cffd;
-    height: 700px;
+    height: 770px;
     width: 89.5%;
     float: right;
     margin-top: 55px;
